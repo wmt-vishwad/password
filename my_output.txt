@@ -1,0 +1,8 @@
+
+what length would you like your password to be: 10
+how many passwords would you like: 5
+here is your password:  dna)uYPypn
+here is your password:  4Hnp*1E)VU
+here is your password:  J4%265Lc*K
+here is your password:  xWPrmbyd(G
+here is your password:  gGuKTIGi2w
